@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="40848a41-17d7-41be-828a-b71cab598f21" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Test.txt" afterDir="false" />
+>>>>>>> 1ee8a66596d839a136ff982776c1a0f438d0900b
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +21,13 @@
       <file leaf-file-name="Test.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test.txt">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="85">
               <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+=======
+            <state relative-caret-position="51">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+>>>>>>> 1ee8a66596d839a136ff982776c1a0f438d0900b
             </state>
           </provider>
         </entry>
@@ -192,6 +201,7 @@
       <option name="project" value="LOCAL" />
       <updated>1584772272353</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00007" summary="Merge branch 'master' of https://github.com/pandenaman007/TestRepo into test-branch&#10;&#10;# Conflicts:&#10;#&#9;Test.txt">
       <created>1584773483972</created>
       <option name="number" value="00007" />
@@ -200,6 +210,9 @@
       <updated>1584773483972</updated>
     </task>
     <option name="localTasksCounter" value="8" />
+=======
+    <option name="localTasksCounter" value="7" />
+>>>>>>> 1ee8a66596d839a136ff982776c1a0f438d0900b
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -250,8 +263,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test.txt">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="85">
           <caret line="5" column="54" lean-forward="true" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+=======
+        <state relative-caret-position="51">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+>>>>>>> 1ee8a66596d839a136ff982776c1a0f438d0900b
         </state>
       </provider>
     </entry>
